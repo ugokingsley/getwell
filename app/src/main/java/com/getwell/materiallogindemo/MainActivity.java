@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 /*
 
 
-// recycler view code to be implemented
+// recycler view code to be implemented  check source codes here http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/#comment-3286641005
 
 import android.content.res.Resources;
 import android.graphics.Rect;
